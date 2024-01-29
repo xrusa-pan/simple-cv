@@ -1,5 +1,5 @@
 ## Education
 
-* **Sorbonne**, PhD, 1925
-* **University of Chicago**, AB, 1922, Archæology
-  * Adviser: Abner Ravenwood
+* MSc in Human-Computer Interaction, Currently, University of Patras
+* Diploma of Computer Engineering & Informatics University of Patras, 2011-2019
+ 
