@@ -1,4 +1,4 @@
 ## Languages
 
 * Native fluency: Greek
-* Near-native fluency: English
+* Near-native fluency: English.

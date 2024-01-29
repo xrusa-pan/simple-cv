@@ -1,10 +1,6 @@
-## Academic Appointments
+## Experience
 
-* Marcus Brody Distinguished Service Professor, Archæology, **Marshall College**,
-  Bedford, CT 1950–present
-* Professor, Archæology, **Barnett College**, Fairfield, NY 1937–1950
-* Associate Professor, Archæology, **Marshall College**, Bedford, CT 1935–1937
-* Assistant Professor, Archæology, **Princeton University**, 1932–1935
-* Visiting Assistant Professor, Medieval Literature, **Princeton University**, 1930
-* Visiting Scholar, Archæology, **Marshall College**, 1925
-* Instructor, Celtic Mythology, **London University**, 1925–1927
+* Web Developer, Kprdigital.gr, Athens, Greece,2021–present
+* Web Developer, Tfs.gr, Patras, Greece, 2020–2022
+* Web Developer, Roigroup, Patras,Greece,05/2020-07/2020
+* Web Developer, Webster, Patras, Greece, 2019–2020
