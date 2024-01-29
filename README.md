@@ -12,7 +12,7 @@ logic.
 Demos:
 
 * [http://plain-plain-text.github.io/simple-cv/ ](http://plain-plain-text.github.io/simple-cv/)
-* [http://plain-plain-text.github.io/simple-cv/H_W_Jones.pdf ](http://plain-plain-text.github.io/simple-cv/H_W_Jones.pdf)
+* [http://plain-plain-text.github.io/simple-cv/Chrysa.pdf ](http://plain-plain-text.github.io/simple-cv/Chrysa.pdf)
 
 ## Requirements/Assumptions
 
